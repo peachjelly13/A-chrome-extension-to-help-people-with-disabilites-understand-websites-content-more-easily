@@ -1,2 +1,3 @@
-# A-chrome-extension-to-help-people-with-disabilites-
-A chrome extension to help people with disabilities navigate websites more easily 
+# A-chrome-extension-to-help-people-with-disabilites-understand-websites-content-more-easily
+
+ TOPIC: A-chrome-extension-to-help-people-with-disabilites-understand-websites-content-more-easily
