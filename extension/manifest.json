@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "OpenDyslexic Font Changer",
+    "version": "1.0",
+    "description": "Changes the font of all text to OpenDyslexic font.",
+    "permissions": ["activeTab"],
+    
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
