@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenDyslexic Font Test</title>
+  <style>
+    /* Define @font-face rule for OpenDyslexic font */
+    @font-face {
+      font-family: 'OpenDyslexic';
+      src: url('fonts/compiled/OpenDyslexic-Regular.woff2') format('woff2'),
+           url('fonts/compiled/OpenDyslexic-Regular.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    /* Apply OpenDyslexic font to a test paragraph */
+    p {
+      font-family: 'OpenDyslexic', sans-serif;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Testing OpenDyslexic Font</h1>
+  <p>This paragraph should display in the OpenDyslexic font if everything is set up correctly.</p>
+</body>
+</html>

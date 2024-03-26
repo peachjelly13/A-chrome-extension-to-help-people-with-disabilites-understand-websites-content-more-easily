@@ -10,6 +10,10 @@
         "matches": ["<all_urls>"],
         "js": ["content.js"]
       }
+    ],
+    "web_accessible_resources": [
+      "fonts/compiled/OpenDyslexic-Regular.woff2",
+      "fonts/compiled/OpenDyslexic-Regular.woff"
     ]
   }
   
